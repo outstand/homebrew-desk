@@ -3,6 +3,7 @@ class Desk < Formula
   homepage "https://github.com/jamesob/desk"
   url "https://github.com/outstand/desk/archive/v0.6.0-load.tar.gz"
   sha256 "f31bf13b515d2732a5af19d652b3f4cc032c506e4201efdc1f4875f5795da372"
+  version "v0.6.0-load"
 
   bottle :unneeded
 
