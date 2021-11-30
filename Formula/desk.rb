@@ -5,8 +5,6 @@ class Desk < Formula
   sha256 "ed5543c3367b96cb21354991be45a858741ce388e8809b3c2f68a503f140a92e"
   version "v0.6.0-load2"
 
-  bottle :unneeded
-
   def install
     bin.install "desk"
     bash_completion.install "shell_plugins/bash/desk"
